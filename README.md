@@ -3,7 +3,8 @@
 A Language Server Protocol (LSP) implementation in Rust that provides grammar and spelling checking for Markdown files using local LLM.
 
 This is what it looks like in action:
-![grammar-lsp-demo](./grammar-lsp-demo.png)
+
+![grammar-lsp-demo](./grammar_lsp.png)
 
 This is part of a deep dive article on how LSP work by building LSP servers with Rust.
 See the full write-up here : [article](https://www.aroy.sh/posts/lsp-deep-dive/)
